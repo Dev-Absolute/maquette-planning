@@ -1,17 +1,17 @@
 ﻿<mockup version="5.3" minAllowVersion="5.3" ID="75F06F80-3163-4877-A389-9AA838FF3FA9" platform="MtDesktop" defaultW="800" defaultH="600" measureW="988" measureH="484" mobileScreenScale="0">
-  <controls controlCount="49">
+  <controls controlCount="52">
     <control controlID="6BCA0877-EB66-4826-BEEA-858F593895F6" controlTypeID="Tab" x="0" y="0" w="988" h="440" zOrder="0">
       <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
         <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Long-M%C3%A9trages">
           <area shape="0" alt="" ID="{F573E676-0F0B-4F05-96FD-B8C809B371F2}" coords="(0,0,97,18)"/>
         </link>
-        <link targetPageID="28072331-9FCA-4286-B6BC-2A7228A96BAE" linkType="ltPageLink" isApplyIncludePage="False" title="Planning+Hors+comp%C3%A9tition">
+        <link targetPageID="28072331-9FCA-4286-B6BC-2A7228A96BAE" linkType="ltPageLink" isApplyIncludePage="False" title="+Hors+Comp%C3%A9tition">
           <area shape="0" alt="" ID="{2849FC48-AF4D-48A4-B208-12F7AE8DA4DF}" coords="(96,0,209,18)"/>
         </link>
-        <link targetPageID="1939343E-2271-4AA5-9D1E-E380A6A2E968" linkType="ltPageLink" isApplyIncludePage="False" title="Planning+Court-m%C3%A9trages">
+        <link targetPageID="1939343E-2271-4AA5-9D1E-E380A6A2E968" linkType="ltPageLink" isApplyIncludePage="False" title="+Court-m%C3%A9trages">
           <area shape="0" alt="" ID="{8C10A941-2DC0-4FEE-B8DE-5BB23D8914D8}" coords="(208,0,311,18)"/>
         </link>
-        <link targetPageID="297DF4C7-AE1C-4B3B-A1F4-147F8D1EC056" linkType="ltPageLink" isApplyIncludePage="False" title="Planning+Un+certain+regard">
+        <link targetPageID="297DF4C7-AE1C-4B3B-A1F4-147F8D1EC056" linkType="ltPageLink" isApplyIncludePage="False" title="+Un+Certain+Regard">
           <area shape="0" alt="" ID="{D83E2A33-A08C-4F8F-99B6-007CB04D3A0A}" coords="(310,0,426,18)"/>
         </link>
       </links>
@@ -1765,11 +1765,11 @@
           </groupChildrenDescriptors>
           <thinkness>1</thinkness>
         </control>
-        <control controlID="48148A80-3DEE-44A6-BAC3-3C2513896223" controlTypeID="PopupPanelContent" x="308" y="120" w="371" h="218" zOrder="1">
+        <control controlID="48148A80-3DEE-44A6-BAC3-3C2513896223" controlTypeID="PopupPanelContent" x="308" y="114" w="371" h="257" zOrder="1">
           <color>16777215</color>
           <alias>content</alias>
           <groupChildrenDescriptors>
-            <control controlID="F6DE83D2-CC21-4F45-8F49-780D31C122C3" controlTypeID="Panel" x="0" y="0" w="371" h="218" zOrder="0">
+            <control controlID="F6DE83D2-CC21-4F45-8F49-780D31C122C3" controlTypeID="Panel" x="0" y="0" w="371" h="257" zOrder="0">
               <groupChildrenDescriptors>
                 <control controlID="E159F8E7-9875-473C-B5B5-4F0573A166DA" controlTypeID="__group__" x="7" y="47" w="358" h="24" zOrder="0">
                   <groupChildrenDescriptors>
@@ -1900,7 +1900,7 @@
                     </control>
                   </groupChildrenDescriptors>
                 </control>
-                <control controlID="E9FD167E-8FB2-4CC4-B7AF-85E8B0B70E40" controlTypeID="__group__" x="1" y="168" w="371" h="50" zOrder="5">
+                <control controlID="E9FD167E-8FB2-4CC4-B7AF-85E8B0B70E40" controlTypeID="__group__" x="2" y="206" w="371" h="50" zOrder="5">
                   <groupChildrenDescriptors>
                     <control controlID="BB0425BF-AF74-4F0E-B403-C2C5B665A51B" controlTypeID="Button" x="0" y="0" w="128" h="50" zOrder="0">
                       <interactiveData>
@@ -1997,7 +1997,24 @@
                     </control>
                   </groupChildrenDescriptors>
                 </control>
-                <control controlID="ECCAE6AD-55BE-43DB-A53B-CFC4ADFEF429" controlTypeID="Border" x="0" y="0" w="371" h="218" zOrder="6">
+                <control controlID="ACA692E5-A27A-42B0-B3B8-558E4B8C9DC7" controlTypeID="__group__" x="9" y="158" w="357" h="48" zOrder="6">
+                  <groupChildrenDescriptors>
+                    <control controlID="D5F5E4FD-6B42-4890-8E3A-8418151B309D" controlTypeID="RadioButtonGroup" x="129" y="16" w="228" h="16" zOrder="0">
+                      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+                      <text>Oui%0D%0ANon</text>
+                      <lineSpacing>0</lineSpacing>
+                      <columnCount>2</columnCount>
+                      <itemRect>[{"left":0,"top":0,"right":41,"bottom":16},{"left":51,"top":0,"right":96,"bottom":16}]</itemRect>
+                    </control>
+                    <control controlID="D97AA191-5B0C-44D7-9643-BC724E7BB751" controlTypeID="TextArea" x="0" y="0" w="119" h="48" zOrder="1">
+                      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+                      <text>S%C3%A9ance+du%0D%0Alendemain+%3A</text>
+                      <textSize>16</textSize>
+                      <useDefaultTextSize>False</useDefaultTextSize>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+                <control controlID="ECCAE6AD-55BE-43DB-A53B-CFC4ADFEF429" controlTypeID="Border" x="0" y="0" w="371" h="257" zOrder="7">
                   <alias>borderLayer</alias>
                 </control>
               </groupChildrenDescriptors>

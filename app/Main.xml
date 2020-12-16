@@ -6,7 +6,7 @@
     <colorParam version="1.0"/>
   </params>
   <pages>
-    <page name="Planning Long-métrages" ID="75F06F80-3163-4877-A389-9AA838FF3FA9" expanded="True" code="GfH4Ih86nR" thumbCode="GfH4Ih86nR" status="psWhite" isfolder="False" isshownode="True">
+    <page name="Planning Long-métrages" ID="75F06F80-3163-4877-A389-9AA838FF3FA9" expanded="True" code="1HlOkjwzuh" thumbCode="1HlOkjwzuh" status="psWhite" isfolder="False" isshownode="True">
       <images>
         <image key="A74ACDBBC3EE487C9CDF84F8F9700C7C.svg"/>
         <image key="4E4C2E0D6E6109D863E3A5E5B0BFACD3.svg"/>
@@ -15,19 +15,19 @@
     </page>
     <page name="Planning Hors compétition" ID="28072331-9FCA-4286-B6BC-2A7228A96BAE" expanded="True" code="LJFW7dzxsD" thumbCode="LJFW7dzxsD" status="psWhite" isfolder="False" isshownode="True">
       <images>
-        <image key="A74ACDBBC3EE487C9CDF84F8F9700C7C.svg"/>
-        <image key="4E4C2E0D6E6109D863E3A5E5B0BFACD3.svg"/>
         <image key="7D7D4566DDA45C3911849356BA0B0AAC.svg"/>
+        <image key="4E4C2E0D6E6109D863E3A5E5B0BFACD3.svg"/>
+        <image key="A74ACDBBC3EE487C9CDF84F8F9700C7C.svg"/>
       </images>
     </page>
     <page name="Planning Court-métrages" ID="1939343E-2271-4AA5-9D1E-E380A6A2E968" expanded="True" code="kygqHMMGZU" thumbCode="kygqHMMGZU" status="psWhite" isfolder="False" isshownode="True">
       <images>
-        <image key="A74ACDBBC3EE487C9CDF84F8F9700C7C.svg"/>
-        <image key="4E4C2E0D6E6109D863E3A5E5B0BFACD3.svg"/>
         <image key="7D7D4566DDA45C3911849356BA0B0AAC.svg"/>
+        <image key="4E4C2E0D6E6109D863E3A5E5B0BFACD3.svg"/>
+        <image key="A74ACDBBC3EE487C9CDF84F8F9700C7C.svg"/>
       </images>
     </page>
-    <page name="Planning Un certain regard" ID="297DF4C7-AE1C-4B3B-A1F4-147F8D1EC056" expanded="False" code="S3nn7PtK4X" thumbCode="8vVQyGBOUn" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+    <page name="Planning Un certain regard" ID="297DF4C7-AE1C-4B3B-A1F4-147F8D1EC056" expanded="False" code="as6iPkeDVY" thumbCode="S3nn7PtK4X" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
       <images>
         <image key="A74ACDBBC3EE487C9CDF84F8F9700C7C.svg"/>
         <image key="4E4C2E0D6E6109D863E3A5E5B0BFACD3.svg"/>
